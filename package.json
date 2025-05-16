@@ -1,12 +1,12 @@
 {
-  "name": "medusa-plugin-tolgee",
+  "name": "medusa-plugin-tolgee-ttnhat",
   "description": "Medusa V2 Plugin to easily add translations to your models with Tolgee ",
   "author": "SteelRazor47",
   "version": "1.1.1",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SteelRazor47/medusa-plugin-tolgee"
+    "url": "https://github.com/Nathan-Nhat/medusa-plugin-tolgee"
   },
   "files": [
     ".medusa/server"
